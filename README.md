@@ -1,16 +1,17 @@
-## Hi there 👋
+SEJA BEM VINDO 
 
-<!--
-**VITINCARDOSO/vitincardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor Gabriel
 
-Here are some ideas to get you started:
+Estou estudando na alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Faço o ensino médio na escola Tiburcio
+
+Vou utilizar essa ferramenta para minha organização 
+
+### VOCÊ PODE FALAR COMIGO PELO EMAIL:
+
+00001113625788SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/-lwPwBiXrYIAAAAC/yumm-delicious.gif)
+
+
